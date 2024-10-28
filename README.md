@@ -1,2 +1,4 @@
 # DarkMatlab
-config for dark matlab theme
+config for dark matlab (cracked) theme
+Beta version
+(Works good on R2024a )
